@@ -1,0 +1,3 @@
+18
+sample2.txt
+-rw-rw-r-- 1  ruchitha  ruchitha  81	 Oct  9 19:06 sample2.txt
