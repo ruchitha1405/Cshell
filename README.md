@@ -7,11 +7,13 @@ $ ./a.out
 The shell displays a prompt and is ready to take input commands. <br>
 To quit, enter 'quit' or hit Ctrl D.
 
-###Functionality:
+### Functionality:
 
 1.main.c
 
-This contains the main function of the program. The main function includes the primary shell-loop of the program. It reads the input string and parse into commands broken by a semi-colon and  execute commands.
+This contains the main function of the program. <br>
+The main function includes the primary shell-loop of the program. <br>
+It reads the input string and parse into commands broken by a semi-colon and  execute commands.
 
 2.prompt.c
 
